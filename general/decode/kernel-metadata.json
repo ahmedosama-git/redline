@@ -1,0 +1,18 @@
+{
+  "id": "ososovic/qwen3-gec-decoding",
+  "title": "qwen3 gec decoding",
+  "code_file": "qwen3_gec_decoding.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "machine_shape": "NvidiaTeslaT4",
+  "dataset_sources": [],
+  "competition_sources": [],
+  "kernel_sources": [
+    "ososovic/qwen3-grammar-checker"
+  ],
+  "model_sources": []
+}

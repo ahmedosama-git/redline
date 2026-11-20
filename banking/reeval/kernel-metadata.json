@@ -1,0 +1,20 @@
+{
+  "id": "ososovic/qwen3-bank-grammar-reeval",
+  "title": "qwen3 bank grammar reeval",
+  "code_file": "qwen3_bank_grammar_reeval.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "machine_shape": "NvidiaTeslaT4",
+  "dataset_sources": [
+    "utkarshx27/consumer-complaint"
+  ],
+  "competition_sources": [],
+  "kernel_sources": [
+    "ososovic/qwen3-bank-grammar-pandas-vs-spark"
+  ],
+  "model_sources": []
+}

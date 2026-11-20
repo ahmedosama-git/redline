@@ -1,0 +1,18 @@
+{
+  "id": "ososovic/qwen3-bank-grammar-pandas-vs-spark",
+  "title": "qwen3 bank grammar pandas vs spark",
+  "code_file": "qwen3_bank_grammar_pandas_vs_spark_kaggle.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "machine_shape": "NvidiaTeslaT4",
+  "dataset_sources": [
+    "utkarshx27/consumer-complaint"
+  ],
+  "competition_sources": [],
+  "kernel_sources": [],
+  "model_sources": []
+}

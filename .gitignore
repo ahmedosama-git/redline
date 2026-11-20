@@ -1,0 +1,19 @@
+# secrets
+token.txt
+kaggle.json
+.env
+
+# local tooling (cloned at runtime by the notebooks)
+LLaMA-Factory/
+
+# data & weights (published on Hugging Face instead)
+**/gec_bank/data/
+**/gec_bank/saves/
+*.parquet
+*.safetensors
+*.bin
+
+# misc
+*.bak
+.ipynb_checkpoints/
+__pycache__/
